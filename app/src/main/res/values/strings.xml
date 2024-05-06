@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TH2</string>
+    <string-array name="namealbum">
+        <item>Cho 1 tình yêu</item>
+        <item>Nỗi yêu bé dại</item>
+        <item>Cây lặng - gió ngừng</item>
+        <item>Có dừng được không</item>
+        <item>Đây là mơ</item>
+        <item>Ở giữa cuộc đời</item>
+    </string-array>
+    <string-array name="nametheloai">
+        <item>Country</item>
+        <item>Blues</item>
+        <item>Rock</item>
+        <item>Pop</item>
+    </string-array>
+</resources>
